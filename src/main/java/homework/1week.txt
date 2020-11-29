@@ -4,6 +4,12 @@ Pull Request
 Commit
 Merge
 Branch
+- git branch branchtest
+- git branch
+- git checkout branchtest
+    - checkout 옵션 중 -b를 사용하여, 생성 후 바로 이동
+    - git checkout -b 브랜치명
+- git branch -d 브랜치명 // 브랜치 삭제
 
 2. 연산자 (각 개념과 예제)
     연산자 우선순위
@@ -42,4 +48,8 @@ Branch
 4. 조건문 예제 만들기
 
 5. 반복문 예제 만들기
+
+
+
+
 
