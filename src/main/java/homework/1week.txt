@@ -4,6 +4,7 @@ Pull Request
 Commit
 Merge
 Branch
+<<<<<<< HEAD
 - git branch branchtest1
 - git branch
 - git checkout branchtest1
@@ -12,6 +13,14 @@ Branch
 - git branch -d 브랜치명 // 브랜치 삭제
 - git push --set-upstream origin branchtest1
 - branchtest1
+=======
+- git branch branchtest
+- git branch
+- git checkout branchtest
+    - checkout 옵션 중 -b를 사용하여, 생성 후 바로 이동
+    - git checkout -b 브랜치명
+- git branch -d 브랜치명 // 브랜치 삭제
+>>>>>>> master
 
 2. 연산자 (각 개념과 예제)
     연산자 우선순위
