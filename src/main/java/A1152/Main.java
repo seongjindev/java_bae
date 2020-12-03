@@ -12,5 +12,6 @@ public class Main {
         b = a.split(" ");
         System.out.println(b.length);
 
+        
     }
 }

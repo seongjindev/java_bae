@@ -8,6 +8,7 @@ public class Main {
         int a = sc.nextInt();
         for(int i=1; i<=9;i++){
             System.out.println(a +" * "+ i + " = "+ (a*i));
+
         }
         sc.close();
     }
