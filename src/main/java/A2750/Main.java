@@ -1,4 +1,4 @@
-package A2750;
+/*package A2750;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -22,4 +22,4 @@ public class Main {
         if()
         return 0;
     }
-}
+}*/
